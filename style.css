@@ -1,0 +1,11 @@
+html {
+    text-align: center;
+}
+
+div {
+    border-style: solid;
+    border-color: green;
+    display: inline-block;
+    text-align: left;
+    width: 400px;
+}
